@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[test]]></title>
+        <description><![CDATA[test]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 21:14:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wesley Harrison | #1 Pre-eminent Digital Marketing Expert]]></title>
+            <description><![CDATA[<article><h1>Wesley Harrison | #1 Pre-eminent Digital Marketing Expert</h1><p>" ...and on February 16th, 2011 we implemented phase one of his Complete Customer Engagement Campaign System and in less than 3 months, our net profits Doubled ... since then, we've never looked back! " The "Fact: Better Mouse Trap" or the " Optimizing the online Call Today to schedule a free Strategy Session.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d474b659ae4f8c064a5c8de530a067dded514c0.jpg"></article>]]></description>
+            <link>http://wesleyharrison.com/</link>
+            <guid isPermaLink="false">583e6295-9ec8-4866-96a1-83560e4ba695</guid>
+            <pubDate>Sun, 10 Apr 2016 21:14:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
