@@ -1,4 +1,4 @@
-name: Myfirst
+name: Wes Harrison AI
 favicon: null
 layout_spectrum: 0.5236794445663691
 typography_spectrum: 0.7508638487197459
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#242424'
+    - '#555555'
+    - '#757575'
+    - '#939393'
+    - '#c8c8c8'
   brandStrength: 0.05055988812819123
   lightness: 0.665782438358292
   saturation: 0.8737730854190886
