@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[test]]></title>
-        <description><![CDATA[test]]></description>
+        <title><![CDATA[Site Built Using AI]]></title>
+        <description><![CDATA[Site Built Using AI]]></description>
         <link>https://thegrid.ai/myfirst/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 21:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 21:23:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/myfirst/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fa]]></title>
+            <description><![CDATA[<article><h1>Fa</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ae530974b83dd5a656fafe481f712eafbbd6abd.jpg"></article>]]></description>
+            <link>http://wesleyharrison.com/loyalty-cards-increase-business/</link>
+            <guid isPermaLink="false">bef2e166-4f4f-45c0-a6b9-d329f7673765</guid>
+            <pubDate>Sun, 10 Apr 2016 21:23:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://wesleyharrison.com/wp-content/uploads/2016/03/course-success-tip.jpg">]]></description>
